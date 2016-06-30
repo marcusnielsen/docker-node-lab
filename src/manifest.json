@@ -1,0 +1,13 @@
+{
+  "short_name": "d-n lab",
+  "name": "docker node lab",
+  "icons": [
+    {
+      "src": "champagne-bottle.png",
+      "sizes": "423x423",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone"
+}
